@@ -27,17 +27,17 @@ function play(question, answer){
 var qna = [
 
   {
-  question: 'what is your age? ',
+  question: 'what is my age? ',
   answer: '21',
   },
 
   {
-  question: 'where are you from? ',
+  question: 'where i am from? ',
   answer: 'tirupati',
   },
 
   {
-  question: 'where do you study? ',
+  question: 'where i am studying? ',
   answer: 'chennai',
   },
 
