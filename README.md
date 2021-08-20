@@ -10,6 +10,6 @@ Readline-Sync
 ## Description:
 1. It will take username as input .
 2. It will ask questions related to myself.
-3. If user's answer is correct they will be get 1 mark for each question and no negative marks for wrong answers.
+3. If user's answer is correct they will be get 1 mark for each question and negative marks for wrong answers.
 
 ## Project link: [click here](https://replit.com/@yaswanthmyneni/CLI?embed=1&putput=1#index.js)
